@@ -33,5 +33,5 @@
         Step 4:
         Go to favorites tab to find the added movie. 
 
-    Host URL: 
+    Host URL: https://665998249c7aef09b0a8eb98--stirring-dodol-00e3a1.netlify.app/
     Git URL : https://github.com/atul930/Movie_dekho.git
